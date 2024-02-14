@@ -1,5 +1,5 @@
 {
-  "name": "convert-srt-to-ass",
+  "name": "@boydaihungst/convert-srt-to-ass",
   "version": "1.0.4",
   "description": "Convert SRT subtitles to ASS",
   "main": "dist/index.js",
