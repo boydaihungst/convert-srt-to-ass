@@ -1,6 +1,6 @@
 {
   "name": "convert-srt-to-ass",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Convert SRT subtitles to ASS",
   "main": "dist/index.js",
   "types": "src/types.d.ts",
@@ -16,17 +16,18 @@
     "karaoke",
     "ass",
     "srt",
-	"convert"
+    "convert"
   ],
   "author": "Guillaume Lebigot <axel@teri-chan.net>",
+  "contributors": [{"email": "boydaihungst@gmai.com", "name": "Huy Hoang"}],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AxelTerizaki/srt2ass/issues",
-    "email": "axel@teri-chan.net"
+    "url": "https://github.com/boydaihungst/srt2ass/issues",
+    "email": "boydaihungst@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AxelTerizaki/srt2ass"
+    "url": "git+https://github.com/boydaihungst/srt2ass.git"
   },
   "dependencies": {
     "ass-stringify": "^0.1.3"
